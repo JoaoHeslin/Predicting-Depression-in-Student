@@ -1,0 +1,12 @@
+# Libraries used:
+    pandas
+    numpy
+    seaborn
+    matplotlib
+    warnings
+    scikit-learn
+    catboost
+    xgboost
+    streamlit
+    imblearn
+    plotly
